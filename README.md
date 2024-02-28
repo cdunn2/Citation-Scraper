@@ -33,6 +33,6 @@ Title: Article Title
 This project is licensed under the MIT License.
 
 ## Contact
-Connor Dunn
-connoro.dunn@gmail.com
+- Connor Dunn
+- connoro.dunn@gmail.com
 ---
