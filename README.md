@@ -19,7 +19,7 @@ The NYTimes Citation Extractor is a JavaScript script designed to enhance the us
    - Using `trim()` to remove unwanted whitespaces from the title and publisher.
 
 ## Installation
-1. Copy the content of `nytimes-citation-extractor.js`.
+1. Copy the content of `scraper.js`.
 2. Open your browser's developer console on a NYTimes article page.
 3. Paste and run the script in the console.
 
